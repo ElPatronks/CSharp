@@ -1,0 +1,16 @@
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.exe
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.deps.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.pdb
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfo.cs
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\refint\7. Hot Potato.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.pdb
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.genruntimeconfig.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\7. Hot Potato\obj\Debug\net5.0\ref\7. Hot Potato.dll

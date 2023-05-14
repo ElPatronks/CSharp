@@ -1,0 +1,16 @@
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.exe
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.deps.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.pdb
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\refint\8. Traffic Jam.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.pdb
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.genruntimeconfig.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\8. Traffic Jam\obj\Debug\net5.0\ref\8. Traffic Jam.dll

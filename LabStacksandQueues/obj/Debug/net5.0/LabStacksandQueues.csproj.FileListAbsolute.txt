@@ -1,0 +1,16 @@
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\bin\Debug\net5.0\LabStacksandQueues.exe
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\bin\Debug\net5.0\LabStacksandQueues.deps.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\bin\Debug\net5.0\LabStacksandQueues.runtimeconfig.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\bin\Debug\net5.0\LabStacksandQueues.runtimeconfig.dev.json
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\bin\Debug\net5.0\LabStacksandQueues.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\bin\Debug\net5.0\LabStacksandQueues.pdb
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.csproj.AssemblyReference.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.AssemblyInfoInputs.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.AssemblyInfo.cs
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.csproj.CoreCompileInputs.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\refint\LabStacksandQueues.dll
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.pdb
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\LabStacksandQueues.genruntimeconfig.cache
+C:\Users\emil\Desktop\SoftUni\C#May-Today\LabStacksandQueues\LabStacksandQueues\obj\Debug\net5.0\ref\LabStacksandQueues.dll
